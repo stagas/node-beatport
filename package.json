@@ -5,7 +5,7 @@
 , "author" : "George Stagas <gstagas@gmail.com> (http://stagas.com/)"
 , "repository" :
   { "type" : "git"
-  , "url" : "https://github.com/stagas/beatport.git"
+  , "url" : "https://github.com/stagas/node-beatport.git"
   }
 , "dependencies":
   { "superagent" : ">=0.0.1"
