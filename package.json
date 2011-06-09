@@ -1,6 +1,6 @@
 { "name" : "beatport"
 , "description" : "Beatport API client for Node.js"
-, "version" : "0.0.1"
+, "version" : "0.0.2"
 , "homepage" : "https://github.com/stagas/node-beatport"
 , "author" : "George Stagas <gstagas@gmail.com> (http://stagas.com/)"
 , "repository" :
