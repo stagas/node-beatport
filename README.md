@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/stagas/node-beatport.png)](http://travis-ci.org/stagas/node-beatport)
 node-beatport
 =============
 Beatport API client - resources as methods, also attempts to improve the
